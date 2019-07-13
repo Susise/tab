@@ -30,6 +30,7 @@
     
     self.automaticallyAdjustsScrollViewInsets = NO;
     
+    //哈哈哈 
 }
 
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView{
