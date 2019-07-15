@@ -29,8 +29,9 @@
     [self.view addSubview:tab];
     
     self.automaticallyAdjustsScrollViewInsets = NO;
-    //test1
-}//test2
+    
+    // cc1
+}
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView{
     return 4;
 }
