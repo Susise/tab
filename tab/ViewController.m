@@ -30,9 +30,7 @@
     
     self.automaticallyAdjustsScrollViewInsets = NO;
     
-    //reset branch to this commit 
 }
-//reset branch to this commit again
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView{
     return 4;
 }
